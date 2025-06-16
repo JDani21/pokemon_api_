@@ -1,1 +1,2 @@
-# pokemon_api_
+# pokemon-api
+api para gerar um pokemon aleatorio
